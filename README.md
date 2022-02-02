@@ -1,12 +1,11 @@
 <div>
-  <h1 align="center">E aí Devs! Beleza?  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"></h1>
+  <h1 align="center">E aí Devs! Beleza?</h1>
 </div>
 
 <!-- INFORMAÇÕES BÁSICAS -->
 ## **Estudante, desenvolvedor e entusiasta por tecnologia.**
 
-- 📘 Atualmente cursando Ciência da Computação.
-- 🔭 Aprendendo novas linguagens / tecnologias / recursos.
+- 📘 Aprendendo novas linguagens / tecnologias / recursos.
 - 🛠️ Trabalhando em projetos inovadores.
 
 ### **Mais sobre mim:**
