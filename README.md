@@ -1,75 +1,91 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+</p>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&duration=6000&center=true&lines=Bem-vindo!;Desenvolvedor;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Admin%2FManager+Esports)](https://git.io/typing-svg)
+</div>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 <div>
-  <h1 align="center">E aí Devs! Beleza?</h1>
+  <h1 align="center">E aí desenvolvedores(as)</h1>
 </div>
 
 <!-- INFORMAÇÕES BÁSICAS -->
-## **Estudante, desenvolvedor e entusiasta por tecnologia.**
 
-- 📘 Aprendendo novas linguagens / tecnologias / recursos.
-- 🛠️ Trabalhando em projetos inovadores.
+<div align="center">
 
-### **Mais sobre mim:**
+## **Estudante e entusiasta por tecnologia**
 
+-📘 Sempre 
+🛠️ Trabalhando em projetos inovadores.
 
-```kotlin
-object **LEVIGURGEL** {
- val age = 19
- val occupation = "Front-End"
- val acknowledgements = "Web Design"
- 
- val primarySkillset = listOf("Sociability", "Creative", "Determined")
-}
+</div>
+
+<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
+
+```js
+document.write("Hello World");
+Developer dev = new Developer(Levi Gurgel);
+const Levi = {
+    pronouns: "levs" | "levizinho",
+    status: Student,
+    awake: true
+    editors: [VS Code, Eclipse, PyCharm],
+    learning: [C++, Python, Assembly],
+};
+
+if(succeed == false){
+    tryagain();
+}else{
+    party();
+};
 ```
-
-
 <!-- FIM DE INFORMAÇÕES BÁSICAS -->
 
 <!-- LINGUAGENS E TECNOLOGIAS -->
+
  <div align="center">
 
- ### 🧠 **Linguagens e Tecnologias**
+ ### ▸ **Linguagens e Tecnologias**
  </div>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
  
 <div align="center" valign="top"><br> 
   <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="VSCODE" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-  <img align="center" alt="GITHUB" height="35" width="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="PYTHON"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="C++"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
+  <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-22272e?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 <!-- FIM DE LINGUAGENS E TECNOLOGIAS -->
 
 <!-- CONTATO -->
 <div align="center">
  
- ### 📧 **Entre em contato comigo:**
+ ### ▸ **Entre em contato comigo:**
  </div>
 <br>
 <div align="center">
-  <a href="https://www.instagram.com/levgurgel/" target="_blank"><img src="https://cdn.discordapp.com/attachments/916083596115193866/924573607609372672/Icone-Instagram-PNG.png" width="50px"target="_blank"></a>
-  <a href="https://www.linkedin.com/in/levi-gurgel-85685b229/" target="_blank"><img src="https://cdn.discordapp.com/attachments/916083596115193866/924574537083940874/174857.png" width="50px" target="_blank"></a>
-  <a href = "mailto:leevigurgel@gmail.com"><img src="https://cdn.discordapp.com/attachments/916083596115193866/924574221424799754/logo-gmail-2048.png" width="45px" target="_blank"></a>
+  <a href="https://www.instagram.com/levgurgel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/levi-gurgel-85685b229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leevigurgel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "https://t.me/levigurgel"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
-
   <br>
 </div>
  <!-- FIM DE CONTATO -->
 
+</p>
 
- 
----
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <br>
-
-<!-- ESTÁTISTICAS -->
-<div align="center">
-  <a href="https://github.com/levigurgel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levigurgel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<!-- FIM DE ESTÁTISTICAS -->
-
-<!-- I'M USING 'RAFABALLERINI' SNAKE ANIMATION ONLY FOR DESIGN PURPOSE. I'M NOT TRYING TO USE ALL HER COMMITS TO IMPRESS ANYONE -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<!-- END -->
+</p>
 
