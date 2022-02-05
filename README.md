@@ -30,7 +30,7 @@
 document.write("Hello World");
 Developer dev = new Developer(Levi Gurgel);
 const Levi = {
-    pronouns: "levs" | "levizinho",
+    nicknames: "levs" | "gurjas",
     status: Student,
     awake: true
     editors: [VS Code, Eclipse, PyCharm],
