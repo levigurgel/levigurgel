@@ -20,7 +20,6 @@
 
 ## **Estudante e entusiasta por tecnologia**
 
--📘 Sempre 
 🛠️ Trabalhando em projetos inovadores.
 
 </div>
