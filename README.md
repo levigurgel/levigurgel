@@ -4,24 +4,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&duration=6000&center=true&lines=Bem-vindo!;Desenvolvedor;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia;Admin%2FManager+Esports)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C9D1D9&size=25&center=true&lines=Desenvolvedor;Estudante;Cientista+da+Computa%C3%A7%C3%A3o;Entusiasta+por+tecnologia)](https://git.io/typing-svg)
 </div>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <div>
-  <h1 align="center">E aí desenvolvedores(as)</h1>
-</div>
-
-<!-- INFORMAÇÕES BÁSICAS -->
-
-<div align="center">
-
-## **Estudante e entusiasta por tecnologia**
-
-🛠️ Trabalhando em projetos inovadores.
-
+  <h1 align="center">Mais sobre mim</h1>
 </div>
 
 <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
@@ -47,11 +37,6 @@ if(succeed == false){
 
 <!-- LINGUAGENS E TECNOLOGIAS -->
 
- <div align="center">
-
- ### ▸ **Linguagens e Tecnologias**
- </div>
-
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
  
@@ -69,7 +54,7 @@ if(succeed == false){
 <!-- CONTATO -->
 <div align="center">
  
- ### ▸ **Entre em contato comigo:**
+ ### → **Entre em contato comigo:**
  </div>
 <br>
 <div align="center">
