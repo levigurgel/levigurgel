@@ -1,8 +1,7 @@
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
-
 ```js
 document.write("Hello World");
 Developer dev = new Developer();
+var succeed;
 const myself = {
     status: Student,
     awake: true,
