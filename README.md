@@ -3,7 +3,6 @@
 ```js
 document.write("Hello World");
 Developer dev = new Developer();
-var succeed;
 const myself = {
     status: Student,
     awake: true,
